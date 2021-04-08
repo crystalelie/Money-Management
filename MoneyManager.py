@@ -342,4 +342,3 @@ def exit_program(cur, connection):
 
 
 
-c = create_server_connection("classmysql.engr.oregonstate.edu", "cs290_eliec", "3704", "cs290_eliec")
